@@ -4,4 +4,5 @@
 4) I like the work of CodeWayy to start this series of Github.
 5) I am interested in Machine Learning and Web Development.
 6) I like cricket.
-7) This is merge conflict line.
+
+8) This is merge conflict line.
